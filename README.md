@@ -16,6 +16,12 @@ Installation
 
 3b) Edit the rest to the values that pertain to you
 
+4) Run PuTTxy.exe
+
+5) Right-click tray, hit Start Proxy
+
+6) The proxy is now running on 127.0.0.1:8080 (or whatever you set it to)
+
 INI Explanation
 ======
 
