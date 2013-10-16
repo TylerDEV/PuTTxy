@@ -42,3 +42,10 @@ UserKey         The name of the key file
 SSHPort         The port SSH runs under (default is 22)
 
 ProxyPort       The port to use for the proxy
+
+License
+=======
+
+PuTTxy is licensed under GPL v2
+
+The PuTTxy.ico file is licensed under GNU/GPL and was created by silvestre herrera... At least that's the information provided by http://findicons.com/icon/185449/preferences_system_network_proxy?id=383360
