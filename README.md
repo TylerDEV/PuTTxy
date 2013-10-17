@@ -10,17 +10,19 @@ Installation
 
 2) Extract to a folder (Any one! It's portable!)
 
-3) Edit the PuTTxy.ini in Notepad (or similar)
+3) Drop a copy of putty.exe in the same folder as PuTTxy.exe (Link: http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)
 
-3a) Change IReadTheREADME to 1
+4) Edit the PuTTxy.ini in Notepad (or similar)
 
-3b) Edit the rest to the values that pertain to you
+4a) Change IReadTheREADME to 1
 
-4) Run PuTTxy.exe
+4b) Edit the rest to the values that pertain to you
 
-5) Right-click tray, hit Start Proxy
+5) Run PuTTxy.exe
 
-6) The proxy is now running on 127.0.0.1:8080 (or whatever you set it to)
+6) Right-click tray, hit Start Proxy
+
+7) The proxy is now running on 127.0.0.1:8080 (or whatever port you set it to)
 
 INI Explanation
 ======
